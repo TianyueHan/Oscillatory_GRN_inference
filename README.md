@@ -21,8 +21,6 @@ reported in the associated manuscript.
 - `results/table_i_counts.csv` contains the numerators, denominators, and
   percentages used to produce Table I.
 
-The archive contains 1,000 trials and 1,499 true loops. The recorded
-trial-level end-to-end success rate is 886/1,000 (88.6%).
 
 ## Code
 
