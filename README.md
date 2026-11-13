@@ -4,7 +4,7 @@ This repository contains the simulation and inference code, archived input
 matrices, ground-truth networks, and evaluation results for the 1,000 trials
 reported in the associated manuscript.
 
-## Archived study data
+## Simulation data and results
 
 - `data/snapshots/trial_0001.csv` through `trial_1000.csv` are the unordered,
   observation-noise-perturbed expression matrices supplied to the inference
