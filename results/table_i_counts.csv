@@ -1,0 +1,10 @@
+loop_size,stage,successes,total,rate_percent
+2,step_1_cooscillation_group_detection,409,441,92.7
+2,step_2_loop_gene_selection,348,409,85.1
+2,step_3_bep_network,348,348,100.0
+3,step_1_cooscillation_group_detection,503,525,95.8
+3,step_2_loop_gene_selection,497,503,98.8
+3,step_3_bep_network,497,497,100.0
+4,step_1_cooscillation_group_detection,503,533,94.4
+4,step_2_loop_gene_selection,489,503,97.2
+4,step_3_bep_network,489,489,100.0
